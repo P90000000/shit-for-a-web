@@ -1,0 +1,291 @@
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡶⠶⠶⠶⠶⢶⣦⣤⣤⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠲⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⠁⠀⠐⠦⣤⣄⡀⠀⠀⠉⠉⠙⠛⠻⠷⢶⣤⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀⠙⠳⣦⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠇⠀⠀⣀⣤⠶⠛⠻⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⢻⡷⠀⠀⠀⠀⠀⠀⠀⠀⣸⠃⡰⠀⠀⠀⠀⠈⠻⣦⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⣠⣴⠟⠋⠀⠀⠀⠀⠈⠻⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⣸⣇⣰⠁⠀⠀⠀⠀⠀⠀⠈⠻⣆⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⣰⠟⡿⠉⠛⠶⣄⡀⠀⠀⠀⠀⠀⠘⢷⡀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡿⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣷⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⢠⡟⣼⠃⠀⠀⠀⠈⠛⢶⣄⠀⠀⠀⠀⠀⢻⡄⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣇⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⢀⡾⣼⠃⠀⠀⠀⠀⠀⠀⠀⠘⠳⣦⡀⠀⠀⠀⢻⡄
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⢿⣦⡀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣿⠟⢸⣿⠀⠀⠀⠀⠀⠀⣿⠁⠀⢀⣀⣀⣼⣱⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⡀⠀⠀⣷
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⡈⣿⣷⠰⡷⠀⣠⣴⣿⣿⣿⡿⠋⠀⢀⣿⠀⠀⠀⠀⠀⢰⣿⣴⠟⠛⠳⠶⣬⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⠀⢸
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⠛⣰⣷⡀⠿⠿⠟⠛⠋⠁⣀⣠⣼⠟⠀⢀⣠⣴⡾⠟⢻⣟⣛⠛⠷⣦⣌⣿⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣼
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⡀⠻⠿⠷⠀⠀⠀⠀⢀⣾⠋⢉⣠⣴⠾⠛⠋⠁⠀⠀⣾⣧⡉⠻⣶⣤⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣦⣇⡀⡇⠀⠀⡆⠀⢀⣾⣷⠾⠛⠉⠀⠀⠀⠀⠀⠀⢠⣿⢠⠿⣷⣾⣅⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠻⠿⣶⠷⠶⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⡙⠷⣦⣉⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡟⣯⡙⠶⣼⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡟⠀⠀⠀⠒⠲⠶⣶⡶⢶⡶⡶⡶⠶⠿⠁⣳⣝⣶⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡟⠀⠀⠀⠀⠀⠀⢰⡿⠀⠀⠀⠀⠀⠀⠀⢠⢏⡾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⠟⠀⠀⠀⠀⠀⠀⢀⣿⠃⠀⠀⠀⠀⠀⠀⢠⡟⣼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Get Doxxed By P90 Nigga
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡿⠋⠀⠀⠀⠀⠀⠀⠀⣼⠇⠀⠀⠀⠀⠀⠀⢀⡞⣸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⠟⠀⠀⠀⠀⠀⠀⠀⠀⢰⡟⠀⠀⠀⠀⠀⠀⠀⡼⣱⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣀⣠⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠁⠀⠀⠀⠀⠀⠀⣼⢣⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣠⠞⠉⢀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⣰⢇⡟⠀⠀⠀⢰⠀⠠⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣼⣟⠀⠀⣿⡀⠀⠀⠀⠀⠀⢀⣾⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣆⠀⠀⠀⠀⠀⠛⠚⠁⠀⠀⢀⣼⡄⠀⠀⠈⢿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢿⣿⣦⡀⢻⣷⣦⣀⡀⢀⣴⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⢷⣤⣄⡀⠀⠀⠀⠀⢀⣠⠞⣹⠃⠀⠀⠀⣸⠈⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠘⢷⣝⡻⣶⣽⣷⣍⣩⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⠶⠾⣯⣭⣤⣾⣋⣀⠀⠀⣠⡟⢠⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠉⣻⣦⣌⣉⣉⣉⣀⣀⣤⣤⣤⣤⣤⣤⣤⡶⠶⠾⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠶⠶⢶⣤⣤⣴⣶⣶⣦⣤⣉⣉⣩⣥⣶⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+  ___                           _   ___       __                    _   _          
+ | _ \___ _ _ ___ ___ _ _  __ _| | |_ _|_ _  / _|___ _ _ _ __  __ _| |_(_)___ _ _  
+ |  _/ -_) '_(_-</ _ \ ' \/ _` | |  | || ' \|  _/ _ \ '_| '  \/ _` |  _| / _ \ ' \ 
+ |_| \___|_| /__/\___/_||_\__,_|_| |___|_||_|_| \___/_| |_|_|_\__,_|\__|_\___/_||_|
+
+- Name: ???
+- Age: 8-9
+- State: North Carolina
+- City: Shallotte
+- Town: Longwood
+- County: Brunswick County
+- Address: 7760 Pireway Rd Longwood, NC 28452
+- Pets: Dog
+- Pet Names: Melly
+- School: Longwood Central Schools
+- Face: https://ibb.co/4dyBCkD (From 3 Years Ago)
+- Baby Picture: https://ibb.co/8X2Fhpm (From 2015)
+  ___          _      _    
+ / __| ___  __(_)__ _| |___
+ \__ \/ _ \/ _| / _` | (_-<
+ |___/\___/\__|_\__,_|_/__/
+
+- Meta/Oculus: PurpleLiime9469
+  __  __     _   _            
+ |  \/  |___| |_| |_  ___ _ _ 
+ | |\/| / _ \  _| ' \/ -_) '_|
+ |_|  |_\___/\__|_||_\___|_|  
+
+- Name: Julia Renee Babson
+- Age: 30
+- Date of Birth: April 1994
+- State: North Carolina
+- City: Shallotte
+- Town: Longwood
+- County: Brunswick County
+- Address: 7760 Pireway Rd Longwood, NC 28452
+- Past Addresses: 
+1. 7833 Pireway Rd
+Longwood, NC 28452
+
+2. 7798 Pireway Rd
+Longwood, NC 28452
+
+3. 2317 Butler Cir NW
+Ash, NC 28420
+- Phone Number: (910) 287-3357
+- Possible Relatives:
+Alanna Babson
+Age 29
+Alanna Babson-bennett
+Age 29
+Carol Babson
+Age 72
+Cynthia Babson
+Age 66
+Jeremy Babson
+Age 47
+Julia Babson
+Age 29
+Steve Babson
+Age 66
+Stevlin Babson
+Age 44
+Crystal Babson
+Age 45
+George Babson
+Age 73
+Gregg Babson
+Age 100
+James Babson
+Age 84
+Jamie Babson
+Age 46
+Linda Babson
+Age 69
+Rodney Babson
+Age 52
+Ronnie Babson
+Age 69
+Trey Babson
+Age 27
+Willie Babson
+Age 59
+- Face: https://ibb.co/NVqZc1r (From around 2016)
+  ___     _   _            
+ | __|_ _| |_| |_  ___ _ _ 
+ | _/ _` |  _| ' \/ -_) '_|
+ |_|\__,_|\__|_||_\___|_|  
+
+- Name: Joshua Keith Inman
+- Age: 28
+- Date of Birth: August 1996
+- State: North Carolina
+- City: Shallotte
+- Town: Longwood
+- County: Brunswick County
+- Address: 7760 Pireway Rd Longwood, NC 28452
+- Past Addresses: 
+7274 Johnnie Mae Ln NW
+Ash, NC 28420
+
+6231 Twin Oaks Dr NW
+Ocean Isle Beach, NC 28469
+
+6231 Twin Oaks Dr NW
+Ocean Isl Bch, NC 28469
+- Phone Number: (910) 409-3682 
+- Emails: 
+youngyoshii36@gmail.com
+mamarogs@yahoo.com
+- Possible Relatives:
+Barbara Inman
+Deceased
+Donald Inman
+Age 54
+Elra Inman
+Age 79
+Jane Inman
+Age 78
+Renee Inman
+Age 59
+- Data Leaks:
+{
+  "metadata": {
+    "query": "youngyoshii36@gmail.com",
+    "timestamp": "2024-10-04T01:35:06.481Z"
+  },
+  "data": {
+    "member": {
+      "hibp": {
+        "found": "8",
+        "leaks": [
+          "advanceautoparts.com (2024-06-05)",
+          "National Public Data (2024-04-09)",
+          "omgpop.com (2013-01-01)",
+          "poshmark.com (2018-05-16)"
+        ]
+      },
+      "google": {
+        "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXyyJ8xjP_GEs3fNuFxN4T4wwhU15bY72kW1tmOP2QZkDvj1Avq",
+        "id": "111973844765232795262",
+        "last_update": "2024-01-23 14:12:17 (UTC)",
+        "services": {
+          "google_maps": "https://www.google.com/maps/contrib/111973844765232795262",
+          "google_calendar": "https://calendar.google.com/calendar/u/0/embed?src=youngyoshii36@gmail.com",
+          "google_plus_archive": "https://web.archive.org/web/*/plus.google.com/111973844765232795262*"
+        }
+      },
+      "skype": {
+        "photo": "https://avatar.skype.com/v1/avatars/yoshiient/public",
+        "accounts": [
+          {
+            "photo": "https://avatar.skype.com/v1/avatars/yoshiient/public",
+            "name": "Josh Inman",
+            "id": "yoshiient",
+            "country": "United States",
+            "country_code": "us",
+            "contact_type": "Skype4Consumer",
+            "gender": "Male"
+          }
+        ]
+      },
+      "emailchecker": {
+        "found": "2",
+        "websites": [
+          "https://dropbox.com",
+          "https://xvideos.com"
+        ]
+      }
+    }
+  }
+}
+
+{
+  "metadata": {
+    "query": "mamarogs@yahoo.com",
+    "timestamp": "2024-10-04T01:37:29.694Z"
+  },
+  "data": {
+    "member": {
+      "hibp": {
+        "found": "10",
+        "leaks": [
+          "astoriacompany.com (2021-01-26)",
+          "exactis.com (2018-06-01)",
+          "luxottica.com (2021-03-16)",
+          "National Public Data (2024-04-09)",
+          "Not Acxiom (2020-06-21)"
+        ]
+      }
+    }
+  }
+}
+
+{
+  "metadata": {
+    "query": "+1(910)409-3682",
+    "timestamp": "2024-10-04T01:38:39.891Z"
+  },
+  "data": {
+    "member": {
+      "skype": {
+        "photo": "https://avatar.skype.com/v1/avatars/yoshiient/public",
+        "accounts": [
+          {
+            "photo": "https://avatar.skype.com/v1/avatars/yoshiient/public",
+            "name": "Josh Inman",
+            "id": "yoshiient",
+            "country": "United States",
+            "country_code": "us",
+            "contact_type": "Skype4Consumer",
+            "gender": "Male"
+          }
+        ]
+      }
+    }
+  }
+}
+- Photos with Face:
+https://lh3.googleusercontent.com/a-/ALV-UjXyyJ8xjP_GEs3fNuFxN4T4wwhU15bY72kW1tmOP2QZkDvj1Avq
+https://avatar.skype.com/v1/avatars/yoshiient/public
+- Facebook: https://www.facebook.com/people/Joshua-Inman/pfbid02d6zcZfLTuM5ThvduwByRS7y8BWtLT8uwomGnhpUFNz34jeXBZpM9XYsZ6NzBStfUl/
+- Other Socials: https://linktr.ee/truuyoshii
+  ___ ___   ___       __                    _   _          
+ |_ _| _ \ |_ _|_ _  / _|___ _ _ _ __  __ _| |_(_)___ _ _  
+  | ||  _/  | || ' \|  _/ _ \ '_| '  \/ _` |  _| / _ \ ' \ 
+ |___|_|   |___|_||_|_| \___/_| |_|_|_\__,_|\__|_\___/_||_|
+
+- IP Address: 70.40.85.91
+- ISP: Focus Broadband
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠾⠛⠛⠛⠲⠦⣤⣤⣴⠶⠛⣋⣉⠉⠉⠛⠶⠶⢤⡤⠶⠚⠛⠉⠉⣁⣍⡙⠓⠶⣤⣤⣤⣤⣵⠶⠶⠶⢶⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠁⠀⠀⠀⢀⣴⣶⡄⠀⠀⠀⠈⣉⣹⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠋⡍⠙⠇⠀⠀⠀⠀⠀⠀⣤⣄⠀⠀⠈⢻⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡀⠀⣠⡄⠘⠛⠋⠀⠀⠀⣀⣼⡟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣆⠀⠀⠀⠀⠀⠀⠀⠻⢿⠃⠀⠀⣼⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⡀⠋⠀⠀⠀⠀⣀⣤⣾⣟⣉⠉⠙⠓⢦⣀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠟⠛⢷⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢹⡶⠶⣶⣶⣿⣿⣿⢿⣿⣿⣿⣶⣄⠀⠙⢶⡀⠀⠀⠀⢠⡴⠋⢁⣤⣶⣶⣿⣿⣿⣿⣷⣶⡶⢶⣶⡶⠞⣯⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠏⢀⣾⣿⣿⣹⣷⣾⣿⣷⣿⣏⢹⣿⣷⡄⠀⢻⡄⠀⣴⠋⢀⣴⣿⡿⢋⣽⣷⣿⣯⣭⡿⢻⣿⣦⠀⠙⢦⡸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡇⢀⣿⡿⣠⣾⣿⣿⣿⣿⠃⠀⠀⢹⣯⣻⣿⡄⠀⣿⣰⠃⢰⣿⡏⣻⣾⣿⣿⣿⣿⠋⠉⠙⣿⡙⣿⣷⡀⠈⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⣾⣿⠁⣿⣿⣿⣿⣿⣿⣷⣤⣴⣿⣿⡿⢿⣿⠀⢸⡏⠀⣿⣿⢀⣿⣿⣿⣿⣿⣿⣄⣀⣠⣿⣿⠛⣿⡇⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⣿⡟⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⣿⣿⠀⢸⡇⠀⣿⡇⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⡇⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠹⣿⣟⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣸⣿⠃⢀⣿⡇⠀⢻⣿⡄⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣾⣿⠃⠀⣾⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣇⠀⡽⣿⣷⡏⢻⣿⣿⣿⣿⡿⠟⢷⣌⣿⠏⢀⣼⠟⢿⡄⠈⢿⣷⣤⡿⢿⣿⣿⣿⣿⣿⣿⠋⣠⣿⠏⠀⣰⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣦⡀⠈⠻⠿⣦⣾⣅⣀⣩⣤⣶⡿⠟⢁⣰⡟⣻⠀⢸⠻⣄⠀⠙⢿⣶⣄⣹⣟⣋⣉⣿⣬⣷⠿⠃⢀⣼⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡟⠳⣤⣀⡀⠈⠉⠉⠉⠉⢁⣠⡴⠟⠋⠀⣿⠀⢸⠀⠘⠷⣤⣀⡈⠉⠛⠛⠛⠛⠛⠋⣀⣠⡴⠟⢡⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠉⠉⠛⠛⠛⠛⠋⡍⠉⠀⠀⠀⠀⣿⠀⢸⠀⠀⠀⠀⠉⠛⠓⠲⠶⠶⠶⠶⠞⠛⠉⠀⢠⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⠀⢸⡀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡖⠀⠀⠀⠀⠀⢻⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡇⠀⠀⢸⣦⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⣿⣿⠀⢸⠿⣄⡀⠀⠀⠀⠀⢀⡞⠉⢻⣆⠀⠀⠀⠀⣸⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⠋⠀⠋⣿⠀⢸⠀⠈⢷⡀⠀⠀⢀⡾⠀⠀⠀⢻⡀⢸⡇⢀⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀R.I.P WOMP WOMP LIL BROOO!!
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣧⠀⠀⣴⣶⣤⡄⠀⠀⢀⣼⠃⠀⠀⠀⡟⠀⢸⡇⠀⠈⡇⢠⠀⢸⠁⢀⣠⣄⣸⡇⠈⢀⡾⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠃⣿⠀⠀⠙⠻⠟⠃⠀⠀⢿⣍⡴⠀⠀⢀⡇⠀⢸⡇⠈⢷⣴⠟⠀⠘⢦⣌⠛⠿⠛⠀⠀⢀⡇⠸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠈⡷⠶⠚⠓⠲⠶⠶⢶⣶⠛⠓⠲⢶⣾⡇⠀⢸⣿⡦⢤⡤⠶⣾⡶⠶⣤⣤⣤⠶⣤⣀⣼⠃⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢻⡿⢿⣀⣀⣀⠀⠀⠀⠀⠀⠉⠳⠤⠜⣹⡇⠀⢸⡇⠱⣦⡤⠚⠉⠀⠀⠀⠀⠀⠀⠀⢹⢿⡶⠶⠋⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⢸⡿⣯⣿⣿⣿⣿⠛⣿⣿⣿⣷⣾⣿⠃⠀⠈⣿⣶⣿⣾⡿⠶⣾⣷⣶⣶⣶⣶⢶⣾⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠤⠤⠤⠾⣧⢸⡀⠈⠉⠉⠉⠁⠀⠈⠙⠉⠙⠛⣿⣄⠀⣰⡿⠛⠛⠛⠃⠀⠙⠛⠛⠛⠛⠋⠀⡏⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡿⠸⣷⡤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣬⣭⣿⣯⣀⣀⣀⣀⣀⣤⣠⣤⣄⣤⣤⣄⣰⣧⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⢇⠀⣿⠀⢰⣿⣤⣀⠀⠀⠀⠈⣷⡀⠀⠀⠀⠀⠀⠀⠀⣽⣟⣛⡛⠛⣿⣿⠉⠉⣽⠇⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⡌⣇⣿⠀⠀⠈⠉⢹⠛⢻⡋⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀⠉⠉⣿⠛⣟⠛⠋⠀⠀⣿⣰⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣷⣹⡟⠀⠀⠀⠀⢸⡇⢾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⢶⡏⠀⠀⠀⠀⢻⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠟⠃⠀⠀⠀⠀⢸⣏⣹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣽⡃⠀⠀⠀⠀⠸⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡅⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⢸⡄⠀⠀⠀⠀⠀⠀⣤⡤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡾⣧⡀⣠⣾⠁⣸⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡏⢸⣷⡄⠀⣀⣀⡀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣷⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⢀⡀⢀⣀⣀⣀⣸⣿⣿⣿⣿⣷⣾⣿⣙⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣈⣛⣿⣛⣛⣛⣙⣛⣛⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣈⣻⣿⣿⣛⣻⣿⣿⣿⣛⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
