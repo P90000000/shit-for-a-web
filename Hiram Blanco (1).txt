@@ -36,10 +36,10 @@
                                   ‣ Age: 7
                                   ‣ Gender: Male
                                   ‣ Face: 
-                                    ‣ ibb.co/0yTTrvj
-                                    ‣ ibb.co/zRVvF8N
-                                    ‣ ibb.co/PFFc6np
-                                    ‣ ibb.co/LrGWkcM
+                                    ‣ https://p90s-gifs.vercel.app/duckies-face-1.webp
+                                    ‣ https://p90s-gifs.vercel.app/duckies-face-2.webp
+                                    ‣ https://p90s-gifs.vercel.app/duckies-face-3.webp
+                                    ‣ https://p90s-gifs.vercel.app/duckies-face-4.webp
                                   ‣ School: Smith Clove Elementary School
                                   ‣ Emails:
                                     ‣ blancoh55@gmail.com
